@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Steven/Documents/SDSU/SDSU 2016-2017/COMPE361/MiningTeddies/MiningTeddies/Content/../../../../../../../Desktop/Day_25_MiningBears/explosion.png</File>
+    <File>C:/Users/Steven/Documents/SDSU/SDSU 2016-2017/COMPE361/MiningTeddies/MiningTeddies/Content/../../../../../../../Desktop/Day_25_MiningBears/mine.png</File>
+    <File>C:/Users/Steven/Documents/SDSU/SDSU 2016-2017/COMPE361/MiningTeddies/MiningTeddies/Content/../../../../../../../Desktop/Day_25_MiningBears/teddybear.png</File>
+  </SourceFiles>
+</SourceFileCollection>
